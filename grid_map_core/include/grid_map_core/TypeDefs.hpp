@@ -7,7 +7,7 @@
  */
 
 // Eigen
-#include <Eigen/Core>
+#include <eigen3/Eigen/Core>
 
 #pragma once
 
